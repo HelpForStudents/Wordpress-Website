@@ -1,4 +1,4 @@
-# Wordpress-Website
+![](https://user-images.githubusercontent.com/58315985/126088917-005cfd84-643c-46a8-bc97-e161548de284.png)
 ## Official GitHub Repository for the source code for the [HelpForStudents.org](https://www.helpforstudents.org) website
 
 ## FAQ
