@@ -1,5 +1,5 @@
 # Wordpress-Website
-## Official GitHub Repository for the source code for the [HelpForStudents.org](HelpForStudents.org) website
+## Official GitHub Repository for the source code for the [HelpForStudents.org](https://www.helpforstudents.org) website
 
 ## FAQ
 
